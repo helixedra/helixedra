@@ -23,7 +23,7 @@ Full-stack dev who builds cool stuff with **TypeScript, JavaScript, Next.js, Rea
 
 ### Systems & AI
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat) 
-![Grok](https://img.shields.io/badge/-Grok-00C4B4?logo=xai&logoColor=white&style=flat)
+![Grok](https://img.shields.io/badge/-Grok-000000?logo=xai&logoColor=white&style=flat)
 
 ---
 
