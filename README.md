@@ -8,7 +8,7 @@ I love clean code, slick UIs, and solving tricky problems.
 ### 🛠️ My Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
 <div style="text-align: center;">
-  <img src="https://cdn.brandfetch.io/id2alue-rx/w/60/h/60/theme/dark/icon.jpeg" width="60" alt="Next.js">
+  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="60" alt="Next.js">
   <img src="https://cdn.brandfetch.io/id0AgeLF7b/w/60/h/60/theme/dark/icon.png" width="60" alt="React">
   <img src="https://cdn.brandfetch.io/id-3wqvXE5/w/60/h/60/theme/dark/icon.png" width="60" alt="TypeScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/60px-JavaScript-logo.png" width="60" alt="JavaScript">
