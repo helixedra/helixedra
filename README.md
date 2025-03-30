@@ -9,8 +9,8 @@ I love clean code, slick UIs, and solving tricky problems.
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
 <div style="text-align: center;">
   <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="60" alt="Next.js">
-  <img src="https://cdn.brandfetch.io/id0AgeLF7b/w/60/h/60/theme/dark/icon.png" width="60" alt="React">
-  <img src="https://cdn.brandfetch.io/id-3wqvXE5/w/60/h/60/theme/dark/icon.png" width="60" alt="TypeScript">
+  <img src="https://alonsarias.gallerycdn.vsassets.io/extensions/alonsarias/react-dark-theme/1.0.2/1712764375549/Microsoft.VisualStudio.Services.Icons.Default" width="60" alt="React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="60" alt="TypeScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/60px-JavaScript-logo.png" width="60" alt="JavaScript">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" width="60" alt="TailwindCSS">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" width="60" alt="Node.js">
