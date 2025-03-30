@@ -6,9 +6,21 @@ Full-stack dev who builds cool stuff with
 I love clean code, slick UIs, and solving tricky problems. 
 
 ### 🛠️ My Stack
-![Next.js](https://img.shields.io/badge/-Next.js-1f1f1f?logo=next.js&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/-React-1f1f1f?logo=react&logoColor=61dfd&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-1f1f1f?logo=typescript&logoColor=blue&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-1f1f1f?logo=javascript&logoColor=F7DF1E&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1f1f1f?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge) <!-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)--> ![Node.js](https://img.shields.io/badge/-Node.js-1f1f1f?logo=node.js&logoColor=339933&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1f1f1f?logo=postgresql&logoColor=8c8eff&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-1f1f1f?logo=mysql&logoColor=4da9ff&style=for-the-badge) <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-1f1f1f?logo=ubuntu&logoColor=ff7700&style=for-the-badge) ![Copilot](https://img.shields.io/badge/-Copilot-1f1f1f?logo=githubcopilot&logoColor=white&style=for-the-badge) -->
-
-[](https://brandfetch.com/nextjs.org?view=library&library=default&collection=logos&asset=idqNI71Hra&utm_source=https%253A%252F%252Fbrandfetch.com%252Fnextjs.org&utm_medium=copyAction&utm_campaign=brandPageReferral)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
+<div style="text-align: center;">
+  <img src="https://cdn.brandfetch.io/id2alue-rx/w/60/h/60/theme/dark/icon.jpeg" width="60" alt="Next.js">
+  <img src="https://cdn.brandfetch.io/id0AgeLF7b/w/60/h/60/theme/dark/icon.png" width="60" alt="React">
+  <img src="https://cdn.brandfetch.io/id-3wqvXE5/w/60/h/60/theme/dark/icon.png" width="60" alt="TypeScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/60px-JavaScript-logo.png" width="60" alt="JavaScript">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" width="60" alt="TailwindCSS">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" width="60" alt="Node.js">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60" alt="PostgreSQL">
+      <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" width="60" alt="MySQL">
+       <img src="https://cdn.brandfetch.io/idWcj3JjN7/w/100/h/100/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="60" alt="Next.js">
+        <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" width="60" alt="Redux">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="60" alt="Ubuntu">
+        <img src="https://embed.zenn.studio/api/optimize-og-image/b6300030512f9033f1e2/https%3A%2F%2FGitHub.gallerycdn.vsassets.io%2Fextensions%2Fgithub%2Fcopilot%2F1.280.1420%2F1741375236990%2FMicrosoft.VisualStudio.Services.Icons.Default" width="60" alt="GitHub Copilot">
+</div>
 
 ### 🌟 Currently
 - Hacking on Next.js projects  
