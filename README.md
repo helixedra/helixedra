@@ -1,11 +1,11 @@
 
-# Hi, I’m Oleg! 👋  
+# Hi, I’m Oleg!
                                                                                      
 Full-stack dev who builds cool stuff with  
 **TypeScript, JavaScript, Next.js, React, and Node.js**.  
 I love clean code, slick UIs, and solving tricky problems. 
 
-### 🛠️ My Stack
+### My Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <div style="text-align: center;">
   <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="40" alt="Next.js">
@@ -22,7 +22,7 @@ I love clean code, slick UIs, and solving tricky problems.
         <img src="https://embed.zenn.studio/api/optimize-og-image/b6300030512f9033f1e2/https%3A%2F%2FGitHub.gallerycdn.vsassets.io%2Fextensions%2Fgithub%2Fcopilot%2F1.280.1420%2F1741375236990%2FMicrosoft.VisualStudio.Services.Icons.Default" width="40" alt="GitHub Copilot">
 </div>
 
-### 🌟 Currently
+### Currently
 - Hacking on Next.js projects  
 - Writing type-safe code  
 - Dreaming up side gigs  
