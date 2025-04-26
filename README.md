@@ -19,7 +19,7 @@ I love clean code, slick UIs, and solving tricky problems.
        <img src="https://cdn.brandfetch.io/idWcj3JjN7/w/100/h/100/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40" alt="Next.js">
         <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" width="40" alt="Redux">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="40" alt="Ubuntu">
-        <img src="https://embed.zenn.studio/api/optimize-og-image/b6300030512f9033f1e2/https%3A%2F%2FGitHub.gallerycdn.vsassets.io%2Fextensions%2Fgithub%2Fcopilot%2F1.280.1420%2F1741375236990%2FMicrosoft.VisualStudio.Services.Icons.Default" width="40" alt="GitHub Copilot">
+       <!-- <img src="https://embed.zenn.studio/api/optimize-og-image/b6300030512f9033f1e2/https%3A%2F%2FGitHub.gallerycdn.vsassets.io%2Fextensions%2Fgithub%2Fcopilot%2F1.280.1420%2F1741375236990%2FMicrosoft.VisualStudio.Services.Icons.Default" width="40" alt="GitHub Copilot">-->
 </div>
 
 ### Currently
