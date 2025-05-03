@@ -5,7 +5,6 @@
  I write clean code, create smooth UIs, and love solving tough problems.
 </div>
 
-### My Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <div style="text-align: center;">
   <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="40" alt="Next.js">
