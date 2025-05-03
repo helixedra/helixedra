@@ -1,7 +1,6 @@
 
-Full-stack dev who builds cool stuff with  
-**TypeScript, JavaScript, Next.js, React, and Node.js**.  
-I love clean code, slick UIs, and solving tricky problems. 
+Software engineer building sleek apps with TypeScript, JavaScript, Next.js, React, and Node.js. 
+I write clean code, create smooth UIs, and love solving tough problems.
 
 ### My Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
