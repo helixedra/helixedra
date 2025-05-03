@@ -1,6 +1,9 @@
-
-Software engineer building sleek apps with TypeScript, JavaScript, Next.js, React, and Node.js. 
-I write clean code, create smooth UIs, and love solving tough problems.
+<div>
+  Software engineer building sleek apps with TypeScript, JavaScript, Next.js, React, and Node.js. 
+</div>
+<div>
+ I write clean code, create smooth UIs, and love solving tough problems.
+</div>
 
 ### My Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
