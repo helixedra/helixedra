@@ -21,17 +21,19 @@ I love clean code, slick UIs, and solving tricky problems.
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" width="40" alt="Ubuntu">
        <!-- <img src="https://embed.zenn.studio/api/optimize-og-image/b6300030512f9033f1e2/https%3A%2F%2FGitHub.gallerycdn.vsassets.io%2Fextensions%2Fgithub%2Fcopilot%2F1.280.1420%2F1741375236990%2FMicrosoft.VisualStudio.Services.Icons.Default" width="40" alt="GitHub Copilot">-->
 </div>
-
+<!--
 ### Currently
 - Hacking on Next.js projects  
 - Writing type-safe code  
 - Dreaming up side gigs  
-
+-->
 <!-- ## 📬 Connect -->
 <!-- - [LinkedIn](https://www.linkedin.com/in/your-linkedin) -->  
 <!-- - [Twitter/X](https://twitter.com/your-twitter) -->  
 <!-- - [Email](mailto:your-email@example.com) -->  
-
+<!--
 Let’s talk code or collabs!
-
+-->
+  <!--
 *“Code hard, debug harder.”*
+-->
