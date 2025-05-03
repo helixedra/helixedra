@@ -1,6 +1,4 @@
 
-# Hi, I’m Oleg!
-                                                                                     
 Full-stack dev who builds cool stuff with  
 **TypeScript, JavaScript, Next.js, React, and Node.js**.  
 I love clean code, slick UIs, and solving tricky problems. 
