@@ -6,7 +6,7 @@
 </div>
 <div>
   Also, sometimes I blog my random thoughts.
-<img src="[https://lebrowski.blog/lebro.svg](https://lebrowski.blog/)" width="40" alt="lebrowski">
+<img src="[https://lebrowski.blog/](https://lebrowski.blog/lebro.svg)" width="40" alt="lebrowski">
 </div>
 <!--
 <br>
