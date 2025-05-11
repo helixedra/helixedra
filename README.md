@@ -4,6 +4,7 @@
 <div>
  I write clean code, create smooth UIs, and love solving tough problems.
 </div>
+<img src="https://lebrowski.blog/lebro.svg" width="40" alt="lebrowski">
 <!--
 <br>
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
