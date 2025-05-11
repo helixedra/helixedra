@@ -1,10 +1,13 @@
 <div>
-  Software engineer building sleek apps with TypeScript, JavaScript, Next.js, React, and Node.js. 
+  Software Engineer building apps with TS, JS, and all these modern frameworks.
 </div>
 <div>
- I write clean code, create smooth UIs, and love solving tough problems.
+ Writing code to solve problems nobody told me to fix.
 </div>
-<img src="https://lebrowski.blog/lebro.svg" width="40" alt="lebrowski">
+<div>
+  Also, sometimes I blog my random thoughts.
+<img src="[https://lebrowski.blog/lebro.svg](https://lebrowski.blog/)" width="40" alt="lebrowski">
+</div
 <!--
 <br>
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
