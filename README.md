@@ -7,7 +7,7 @@
 <div>
   Also, sometimes I blog my random thoughts.
 <img src="[https://lebrowski.blog/lebro.svg](https://lebrowski.blog/)" width="40" alt="lebrowski">
-</div
+</div>
 <!--
 <br>
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
