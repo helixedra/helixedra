@@ -2,5 +2,11 @@
 
 **Game Developer** | Unreal Engine & C++ 
 
+🎮 Engine: Unreal Engine (C++ / BP)
+
+🎨 Art: Blender, Substance Painter
+
+🛠️ Past Lives: Go, PHP, TS, UI/UX
+
 <!--Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  -->
 
