@@ -6,7 +6,7 @@
 
 🎨 Art: Blender, Substance Painter
 
-🛠️ Past Lives: Go, PHP, TS, UI/UX
+🛠️ Past Lives: Go, PHP, JS/TS, UI/UX
 
 <!--Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  -->
 
