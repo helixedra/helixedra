@@ -1,8 +1,6 @@
-<img src="https://lebrowski.blog/lebro.svg" width="40" alt="lebrowski">
+<!--<img src="https://lebrowski.blog/lebro.svg" width="40" alt="lebrowski">-->
 
-**Software Engineer** building apps with TS, JS, and all these modern frameworks.  
+**Game Developer** | Unreal Engine & C++ 
 
-Writing code to solve problems nobody told me to fix.  
-
-Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  
+<!--Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  -->
 
