@@ -1,9 +1,9 @@
-**Game Developer** | Unreal Engine & Godot
+**Game Developer**
 ---
-
-🎨 Art: Blender, Substance Painter
-
-🛠️ Past Lives: Go, PHP, JS/TS, UI/UX
+Unreal Engine & Godot
+Blender, Substance Painter
+---
+Go, PHP, JS/TS, UI/UX
 
 <!--Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  -->
 
