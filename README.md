@@ -1,13 +1,13 @@
-**Game Developer**
+**Software Engineer & 3D Artist**
 ---
 
-Engine: Unreal Engine, Godot
-
-3D: Blender, Substance Painter
+Unreal Engine, Godot, Blender, Substance Painter
 
 ---
 
-Go, PHP, JS/TS, UI/UX
+GDScript, C#, C++. Go, PHP, JS/TS
+
+UI/UX Design
 
 <!--Sometimes I blog my random thoughts ****[here](https://lebrowski.blog/)****.  -->
 
